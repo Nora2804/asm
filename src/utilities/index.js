@@ -1,1 +1,1 @@
-export const myName = "Chu Việt Hoàng";
+export const myName = "hello world";
